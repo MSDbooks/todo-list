@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038270523947",
+    "project_id": "todo-list-clean-code",
+    "storage_bucket": "todo-list-clean-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038270523947:android:e7146edde84083c37c186e",
+        "android_client_info": {
+          "package_name": "br.com.restoque.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038270523947-dsrmhld9612fkc37dam8633811l01ld9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzn_NvI419nvNISj5JAXpoHgsrFAZHm2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038270523947-dsrmhld9612fkc37dam8633811l01ld9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
